@@ -1,0 +1,168 @@
+.navbar{
+    background-color: #016dff;
+    width: 100%;
+    height: 50px;
+    
+}
+
+.apnastore{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px !important;
+    font-weight: bolder;
+    color: white !important;
+    margin-left:-25px !important;
+    margin-right: 1px !important; 
+    
+    
+    
+}
+
+
+
+.FaTruck{
+    color: white;
+    margin-left: 55px;
+    font-size: 40px;
+
+}
+
+.d-flex{
+    height: 29px;
+    width:40%;
+    margin-right: 750px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    
+
+}
+
+.searchbox{
+    height: 35px;
+    font-size: 16px !important;
+}
+
+.BiSearchAlt2{
+    margin-left: -37px;
+    color:#016dff;
+    font-size: 25px;
+}
+
+.FaCartPlus{
+    color: white;
+    font-size: 32px;
+    margin-right:40px;
+}
+
+.products{
+    display: flex;
+    margin-left: 100px;
+
+}
+
+#product-image{
+    max-width: 5.5vh; 
+    margin-left: 35px;
+    margin-top: 15px; 
+}
+
+
+#product-name{
+    font-size: 12px ;
+    margin-left: 30px ; 
+    margin-top: 7px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.card{
+    text-align: center;
+    padding: 4px;
+    height: 55vh;
+    width:50%;
+    margin: 7px;
+    margin-bottom: 75px;
+    margin-top: 30px;
+}
+
+.container{
+    display : flex;
+}
+.grid{
+    width:50%
+}
+ 
+.products-img{
+     height: 30vh; 
+     margin-bottom: 15px;
+}
+
+.Modal-cart{
+  
+    display:flex;
+    margin-left: 580px;
+    margin-top: 5px;
+
+
+
+}
+
+.cart-quantity{
+    display: flex;
+    font-size: 18px;
+    background-color: red;
+    width: 20px;
+    height: 20px;
+    border-radius: 40px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 20px;
+    margin-bottom: -7px;
+}
+
+.remove-button{
+    display: flex;
+    border: none;
+    color: #016dff;
+    font-size: 22px;
+    background-color: white;
+    margin-left: 50px;
+    margin-top: 18px;
+
+    
+
+    
+}
+
+.product-title{
+    width: 280px;
+    margin-top: 5px;
+}
+ 
+.product-amount {
+    padding-left: 20px ;
+    padding-right: 25px;
+    margin-left: 50px;
+    margin-top: 5px;
+
+}
+
+.cartProducts-quantity{
+    padding-left: 50px;
+    margin-top: 5px;
+    margin-left: 15px;
+    align-items: center;
+ 
+
+}
+
+#increament-decreament{
+    font-size: 22px;
+    margin-left: 3px;
+    margin-right: 3px;
+    color:grey;
+    
+}
+
